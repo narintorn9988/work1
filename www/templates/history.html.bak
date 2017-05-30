@@ -1,0 +1,34 @@
+<div class="list card">
+  <div class="item item-avatar">
+    <img src="img/1.jpg">
+    <h2>History</h2>
+    <p>March 1, 1998</p>
+  </div>
+
+  <div class="item item-body">
+    <img class="full-image" src="img/1.jpg">
+    <p>
+      <a class="item item-icon-left " href="#">
+    <i class="icon ion-social-facebook"></i>
+    ฟ.เฟรม คนเดิม
+  </a> 
+   <a class="item item-icon-left " href="#">
+    <i class="icon ion-social-instagram-outline"></i>
+   -
+  </a> 
+  <a class="item item-icon-left " href="#">
+    <i class="icon ion-social-whatsapp-outline"></i>
+    tommom9988
+  </a> 
+  <a class="item item-icon-left " href="#">
+    <i class="icon  ion-android-call"></i>
+    093-3624578
+  </a> 
+</p>
+  </div>
+
+</div>
+</div>
+<div ui-sref="list" class="bar bar-footer bar-positive">
+  <div class="title">Back</div>
+</div>
